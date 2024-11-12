@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ range.Data.Pages.Reverse }}
+<article class="post-snippet">
+  <h3>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h3>
+	<div>{{ .Summary }}</div>
+  <a href="{{ .RelPermalink }}">
+    <img alt="" style="border-width: 0px; border-style: solid;" src="{{ .Params.summary_image }}">
+  </a>
+  
+</article>
+{{ end }}
+
+{{ partial "footer.html" . }}

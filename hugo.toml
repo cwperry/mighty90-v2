@@ -1,0 +1,34 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Mighty90'
+theme = 'mighty90'
+
+[menus]
+  [[menus.main]]
+    name = 'History'
+    pageRef = '/history'
+    weight = 20
+  [[menus.main]]
+    name = 'Photography'
+    pageRef = '/photography'
+    weight = 30
+  [[menus.main]]
+    name = 'Film'
+    pageRef = '/film'
+    weight = 40
+  [[menus.main]]
+    name = 'Shipmates'
+    pageRef = '/shipmates'
+    weight = 50
+  [[menus.main]]
+    name = 'Tech'
+    pageRef = '/tech'
+    weight = 60
+  [[menus.main]]
+    name = 'Legacy'
+    pageRef = '/legacy'
+    weight = 70
+  [[menus.main]]
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 80
