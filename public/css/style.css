@@ -80,3 +80,9 @@ figure img {
 a {
   color: #fff;
 }
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}

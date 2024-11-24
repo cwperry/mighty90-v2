@@ -1,0 +1,14 @@
+{{- $path := .Get "path" -}}
+{{- with $.Site.GetPage $path -}}
+
+<div class="center">
+  <h3>
+    <a href="{{ .RelPermalink }}">Continue to {{ .Title }}</a>
+  </h3>
+	<a href="{{ .RelPermalink }}">
+    <img alt="" style="border-width: 0px; border-style: solid;" src="{{ .Params.summary_image }}">
+  </a>
+</div>
+
+{{- end -}}
+

@@ -128,4 +128,20 @@ Across the river from Astoria at New York Ship, CL-103 was launched several mont
            attr="from Brent Jones collection"
 >}}
 
-[Continue to CHAPTER 2: PLANKOWNERS]()
+{{< page-link path="/history/chapter-2-plankowners" >}}
+
+## Sources:
+
+Friedman, Norman.  U.S. Cruisers: An Illustrated Design History.   Annapolis, MD: Naval Institute Press, 1984
+
+Jones, Brent.  Private document collection.
+
+MIGHTY NINETY: USS ASTORIA CL-90 cruise book.  Unk. publisher, 1946.
+
+Mikus, Joe.  Private artifact collection.
+
+Schmitt, Ron and Indelicato, Sal.  Private photo and artifact collections.
+
+Schnipper, Herman.  Private photo and document collection.
+
+www.archives.gov National Archives and Records Administration WWII photo archive.

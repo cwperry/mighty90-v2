@@ -105,3 +105,27 @@ While the Mighty Ninety went through the final preparations for her shakedown, t
            caption="USS Astoria CL-90 returns to Norfolk in a photo taken from USS Tripoli, 18 June 1944." 
            attr="U.S. Navy photo from NARA Records Group 80-G-364894"
 >}}
+
+{{< page-link path="/history/chapter-3-shakedown-cruise" >}}
+
+## Sources:
+
+Allen, Clancy.  Private photo collection.
+
+Bakels, Pieter. Private photo collection.
+
+DeScisciolo, Dominic.  Private document collection.
+
+Friedman, Norman.  U.S. Cruisers: An Illustrated Design History.   Annapolis, MD: Naval Institute Press, 1984
+
+Jones, Brent.  Private document collection.
+
+MIGHTY NINETY: USS ASTORIA CL-90 cruise book.  Unk. publisher, 1946.
+
+Peddie, Jim.  Private document collection.
+
+Schnipper, Herman.  Private photo and document collection.
+
+Whitesell, Teresa.  Private photo collection.
+
+www.archives.gov National Archives and Records Administration WWII photo archive.
