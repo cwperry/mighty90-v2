@@ -97,6 +97,8 @@ Following the completion of her inspection at Hampton Roads, USS ASTORIA steamed
 
 {{< page-link path="/history/chapter-5-golden-gate-in-48" >}}
 
+[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+
 ## Sources:
 
 Cote, Larry.  Private photo collection.

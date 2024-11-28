@@ -108,6 +108,8 @@ While the Mighty Ninety went through the final preparations for her shakedown, t
 
 {{< page-link path="/history/chapter-3-shakedown-cruise" >}}
 
+[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+
 ## Sources:
 
 Allen, Clancy.  Private photo collection.

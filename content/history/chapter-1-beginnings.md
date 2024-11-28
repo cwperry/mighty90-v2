@@ -130,6 +130,8 @@ Across the river from Astoria at New York Ship, CL-103 was launched several mont
 
 {{< page-link path="/history/chapter-2-plankowners" >}}
 
+[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+
 ## Sources:
 
 Friedman, Norman.  U.S. Cruisers: An Illustrated Design History.   Annapolis, MD: Naval Institute Press, 1984

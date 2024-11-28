@@ -145,6 +145,8 @@ The decision was made to send Astoria up to the San Francisco bay area for repai
 
 {{< page-link path="/history/chapter-6-the-mare-island-photographs" >}}
 
+[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+
 ## Sources:
 
 Jones, Brent. Private photo and document collection.

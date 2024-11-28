@@ -158,6 +158,8 @@ If USS Astoria had not experienced either of the two failures of bearings in her
 
 {{< page-link path="/history/chapter-7-here-be-dragons" >}}
 
+[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+
 ## Sources
 
 Cote, Larry.  Private photo collection.

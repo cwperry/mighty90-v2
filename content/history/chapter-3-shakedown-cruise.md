@@ -132,6 +132,8 @@ It was drill, drill, drill, day and night; and battle problems, abandon ship, su
 
 {{< page-link path="/history/chapter-4-mouth-of-the-dragon" >}}
 
+[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+
 ## Sources:
 
 Jones, Brent.  Private document collection.

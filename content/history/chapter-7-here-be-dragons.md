@@ -235,6 +235,8 @@ Such was the state of war in the Pacific Theater. The next time the fast carrier
 
 {{< page-link path="/history/chapter-8-reporting-for-duty" >}}
 
+[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+
 ## Sources:
 
 Blodgett, Herbert.  "Remembering Typhoon Cobra."  U.S. Navy Cruiser Sailors Association Quarterly, Summer 2006, pp. 29-30.
