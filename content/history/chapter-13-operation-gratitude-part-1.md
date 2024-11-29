@@ -214,7 +214,7 @@ Overall the results of the day's raids were disappointing. One freighter and one
 
 Once again, the Japanese Combined Fleet was nowhere to be found. Following the day's raids, Radio Tokyo announced the presence of the Fast Carrier Task Force in the South China Sea. Tokyo Rose reportedly stated, "we don't know how you got in, but how the hell are you going to get out?"
 
-{{< page-link path="/history/chapter-13-operation-gratitude-part-2" >}}
+{{< page-link path="/history/chapter-14-operation-gratitude-part-2" >}}
 
 [BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
 
