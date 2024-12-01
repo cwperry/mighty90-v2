@@ -1,6 +1,6 @@
 +++
 date = '2024-11-24T12:53:00-06:00'
-draft = true
+draft = false
 title = 'Chapter 7 Here Be Dragons'
 summary = 'Heading toward the Pacific War, October-November 1944.'
 summary_image = '/images/here-be-dragons.jpg'
@@ -235,7 +235,7 @@ Such was the state of war in the Pacific Theater. The next time the fast carrier
 
 {{< page-link path="/history/chapter-8-reporting-for-duty" >}}
 
-[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+[BACK TO SHIP HISTORY]({{< relref "/history" >}} "History")
 
 ## Sources:
 

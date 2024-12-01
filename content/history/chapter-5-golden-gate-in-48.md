@@ -1,6 +1,6 @@
 +++
 date = '2024-11-24T09:41:08-06:00'
-draft = true
+draft = false
 title = 'Chapter 5 Golden Gate in 48'
 summary = 'From Philadelphia to San Francisco, August-October 1944.'
 summary_image = '/images/golden_gate_in_48.jpg'
@@ -145,7 +145,7 @@ The decision was made to send Astoria up to the San Francisco bay area for repai
 
 {{< page-link path="/history/chapter-6-the-mare-island-photographs" >}}
 
-[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+[BACK TO SHIP HISTORY]({{< relref "/history" >}} "History")
 
 ## Sources:
 

@@ -1,6 +1,6 @@
 +++
 date = '2024-11-28T09:36:47-06:00'
-draft = true
+draft = false
 title = 'Chapter 9 OPERATION LOVE III'
 summary = "Mighty Ninety's first sortie: the Mindoro landings, December 1944."
 summary_image = '/images/operation-love-3.jpg'
@@ -155,7 +155,7 @@ Following their third consecutive day of flight operations over Luzon, The Fast 
 
 {{< page-link path="/history/chapter-10-the-storm" >}}
 
-[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+[BACK TO SHIP HISTORY]({{< relref "/history" >}} "History")
 
 ## Sources:
 

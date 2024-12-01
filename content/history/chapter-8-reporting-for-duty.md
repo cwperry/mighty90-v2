@@ -1,6 +1,6 @@
 +++
 date = '2024-11-27T04:47:10-06:00'
-draft = true
+draft = false
 title = 'Chapter 8 Reporting for Duty'
 summary = 'Joining the Fast Carrier Task Force, December 1944.'
 summary_image = '/images/reporting-for-duty.jpg'
@@ -143,7 +143,7 @@ When Task Groups 38.1 and 38.2 left Ulithi on 1 December, they were originally h
 
 {{< page-link path="/history/chapter-9-operation-love-3" >}}
 
-[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+[BACK TO SHIP HISTORY]({{< relref "/history" >}} "History")
 
 ## Sources:
 

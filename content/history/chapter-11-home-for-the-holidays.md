@@ -1,6 +1,6 @@
 +++
 date = '2024-11-28T13:02:47-06:00'
-draft = true
+draft = false
 title = 'Chapter 11 Home for the Holidays'
 summary = "Resting the fleet at Ulithi, December 1944."
 summary_image = '/images/home-for-the-holidays.jpg'
@@ -96,7 +96,7 @@ Following a short holiday rest, the task force began preparations to return to s
 
 {{< page-link path="/history/chapter-12-operation-mike-1" >}}
 
-[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+[BACK TO SHIP HISTORY]({{< relref "/history" >}} "History")
 
 ## Sources:
 

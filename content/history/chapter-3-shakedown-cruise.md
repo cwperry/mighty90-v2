@@ -1,6 +1,6 @@
 +++
 date = '2024-11-16T07:27:16-06:00'
-draft = true
+draft = false
 title = 'Chapter 3 Shakedown Cruise'
 summary = "Mighty Ninety's shakedown off Bermuda and Trinidad, June-July 1944."
 summary_image = '/images/shake_merge_700x_7br4.jpg'
@@ -132,7 +132,7 @@ It was drill, drill, drill, day and night; and battle problems, abandon ship, su
 
 {{< page-link path="/history/chapter-4-mouth-of-the-dragon" >}}
 
-[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+[BACK TO SHIP HISTORY]({{< relref "/history" >}} "History")
 
 ## Sources:
 

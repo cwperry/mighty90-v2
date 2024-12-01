@@ -1,6 +1,6 @@
 +++
 date = '2024-11-09T20:37:39-06:00'
-draft = true
+draft = false
 title = 'Chapter 1 Beginnings'
 summary = "Construction of USS ASTORIA CL-90 through Launching,&nbsp;September 1941-March 1943."
 summary_image = '/images/beginnings_merge_700x_ot64.jpg'
@@ -130,7 +130,7 @@ Across the river from Astoria at New York Ship, CL-103 was launched several mont
 
 {{< page-link path="/history/chapter-2-plankowners" >}}
 
-[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+[BACK TO SHIP HISTORY]({{< relref "/history" >}} "History")
 
 ## Sources:
 

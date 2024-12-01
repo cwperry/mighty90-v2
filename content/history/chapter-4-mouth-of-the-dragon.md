@@ -1,6 +1,6 @@
 +++
 date = '2024-11-16T07:55:31-06:00'
-draft = true
+draft = false
 title = 'Chapter 4 Mouth of the Dragon'
 summary = 'ASTORIA CL-90 returns from her shakedown, July 1944.'
 summary_image = '/images/shake_merge_2_700x.jpg'
@@ -97,7 +97,7 @@ Following the completion of her inspection at Hampton Roads, USS ASTORIA steamed
 
 {{< page-link path="/history/chapter-5-golden-gate-in-48" >}}
 
-[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+[BACK TO SHIP HISTORY]({{< relref "/history" >}} "History")
 
 ## Sources:
 

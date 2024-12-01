@@ -1,6 +1,6 @@
 +++
 date = '2024-11-24T11:35:08-06:00'
-draft = true
+draft = false
 title = 'Chapter 6 The Mare Island Photographs'
 summary = '"Ready for her closeup," 21 October 1944.'
 summary_image = '/images/mare-island-photos.jpg'
@@ -158,7 +158,7 @@ If USS Astoria had not experienced either of the two failures of bearings in her
 
 {{< page-link path="/history/chapter-7-here-be-dragons" >}}
 
-[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+[BACK TO SHIP HISTORY]({{< relref "/history" >}} "History")
 
 ## Sources
 

@@ -1,6 +1,6 @@
 +++
 date = '2024-11-28T17:19:46-06:00'
-draft = true
+draft = false
 title = 'Chapter 12 Operation MIKE I'
 summary = "The Fast Carrier Task Force steams through the heart of a Pacific typhoon, December 1944."
 summary_image = '/images/operation-mike-i.jpg'
@@ -157,7 +157,7 @@ Although their support of Operation MIKE I was effectively over, the Fast Carrie
 
 {{< page-link path="/history/chapter-13-operation-gratitude-part-1" >}}
 
-[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+[BACK TO SHIP HISTORY]({{< relref "/history" >}} "History")
 
 ## Sources:
 

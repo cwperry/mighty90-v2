@@ -1,6 +1,6 @@
 +++
 date = '2024-11-12T03:47:47-06:00'
-draft = true
+draft = false
 title = 'Chapter 2 Plankowners'
 summary = "Commissioning and Trials, March 1943-June 1944."
 summary_image = '/images/plank_merge_700x.jpg'
@@ -108,7 +108,7 @@ While the Mighty Ninety went through the final preparations for her shakedown, t
 
 {{< page-link path="/history/chapter-3-shakedown-cruise" >}}
 
-[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+[BACK TO SHIP HISTORY]({{< relref "/history" >}} "History")
 
 ## Sources:
 

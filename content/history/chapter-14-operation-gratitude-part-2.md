@@ -1,6 +1,6 @@
 +++
 date = '2024-11-29T08:27:22-06:00'
-draft = true
+draft = false
 title = 'Chapter 14 Operation Gratitude part 2'
 summary = "Task Force 38 is attacked off Formosa, January 1945."
 summary_image = '/images/operation-gratitude-part-2.jpg'
@@ -199,7 +199,7 @@ I am so proud of you that no words can express my feelings. This has been a hard
 
 {{< page-link path="/history/chapter-15-mog-mog" >}}
 
-[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+[BACK TO SHIP HISTORY]({{< relref "/history" >}} "History")
 
 ## Sources:
 

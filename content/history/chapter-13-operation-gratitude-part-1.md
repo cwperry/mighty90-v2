@@ -1,6 +1,6 @@
 +++
 date = '2024-11-28T18:41:13-06:00'
-draft = true
+draft = false
 title = 'Chapter 13 Operation Gratitude part 1'
 summary = "Task Force 38 raids Japanese shipping in the South China Sea, January 1945."
 summary_image = '/images/operation-gratitude-part-1.jpg'
@@ -216,7 +216,7 @@ Once again, the Japanese Combined Fleet was nowhere to be found. Following the d
 
 {{< page-link path="/history/chapter-14-operation-gratitude-part-2" >}}
 
-[BACK TO SHIP HISTORY]({{< ref "/history" >}} "History")
+[BACK TO SHIP HISTORY]({{< relref "/history" >}} "History")
 
 ## Sources:
 
