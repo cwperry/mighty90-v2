@@ -7,17 +7,17 @@ summary_image = '/images/mog-mog.jpg'
 +++
 
 {{< figure src="/images/1945_01_28_astoria_sailors_board_lci.jpg" 
-           caption="USS ASTORIA sailors load aboard LCI (G)-463 for a brief liberty at Mog Mog fleet recreation center in Ulithi Atoll on 28 January 1945." 
+           caption="USS *Astoria* sailors load aboard LCI (G)-463 for a brief liberty at Mog Mog fleet recreation center in Ulithi Atoll on 28 January 1945." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
 26 January 1945
-USS ASTORIA and the Fast Carrier Task Force entered Ulithi Anchorage in the afternoon.
+USS *Astoria* and the Fast Carrier Task Force entered Ulithi Anchorage in the afternoon.
 
 No time was lost in distributing overdue mail which the men eagerly hauled aboard. Movies were shown that evening. Beginning the next morning, groups of sailors were granted brief one-day liberty.  They packed aboard transports and headed across the anchorage for the Fleet Recreation Area at Mog Mog, an island on the northernmost end of the atoll.
 
 {{< figure src="/images/1945_01_28_lci_loaded_with_recreation_party.jpg" 
-           caption="LCI (G)-463 loaded with a recreation party of ASTORIA sailors headed for Mog Mog fleet recreation center on 28 January 1945." 
+           caption="LCI (G)-463 loaded with a recreation party of *Astoria* sailors headed for Mog Mog fleet recreation center on 28 January 1945." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
@@ -85,29 +85,29 @@ The enlisted men's areas were always crowded--15,000 men at a time crowded into 
 >}}
 
 {{< figure src="/images/1945_02_01_meneke_promotion.jpg" 
-           caption="LCDR Kenneth Meneke is promoted to full Commander on 1 February 1945. With this promotion Meneke became the Gunnery Officer, or \"Gun Boss,\" aboard ASTORIA CL-90." 
+           caption="LCDR Kenneth Meneke is promoted to full Commander on 1 February 1945. With this promotion Meneke became the Gunnery Officer, or \"Gun Boss,\" aboard *Astoria* CL-90." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
 {{< figure src="/images/1945_02_01_officers.jpg" 
-           caption="ASTORIA officers pose around Commander Meneke during his promotion celebration on the night of 1 February 1945 in Ulithi anchorage." 
+           caption="*Astoria* officers pose around Commander Meneke during his promotion celebration on the night of 1 February 1945 in Ulithi anchorage." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
 While the crew rotated through recreational liberty, the ship was a hive of activity.  Stores were taken aboard and preparations made for a Captain's Inspection scheduled to take place on 3 February.
 
 {{< figure src="/images/1945_02_ulithi_cruiser_berths.jpg" 
-           caption="An aerial view of cruiser berths in Ulithi north anchorage taken by a USS YORKTOWN plane in February 1945. At center is WILKES-BARRE CL-103. The berth of USS ASTORIA is out of view to the right." 
+           caption="An aerial view of cruiser berths in Ulithi north anchorage taken by a USS *Yorktown* plane in February 1945. At center is WILKES-BARRE CL-103. The berth of USS *Astoria* is out of view to the right." 
            attr="U.S. Navy photo in NARA record group 80-G-408197"
 >}}
 
 {{< figure src="/images/1945_02_02_ulithi_north_anchorage_panorama.jpg" 
-           caption="A panorama of Ulithi north anchorage created from overlapping images taken aboard USS ASTORIA on 2 February 1945." 
+           caption="A panorama of Ulithi north anchorage created from overlapping images taken aboard USS *Astoria* on 2 February 1945." 
            attr="panorama created from photos taken by and courtesy of Herman Schnipper"
 >}}
 
 {{< figure src="/images/1945_02_02_ulithi_miami_cl-89.jpg" 
-           caption="A closeup of one of the images forming the above panorama from USS ASTORIA. This image shows Cramp-built twin sister MIAMI CL-89 with other cruisers in the background." 
+           caption="A closeup of one of the images forming the above panorama from USS *Astoria*. This image shows Cramp-built twin sister *Miami* CL-89 with other cruisers in the background." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
@@ -117,17 +117,17 @@ While the crew rotated through recreational liberty, the ship was a hive of acti
 >}}
 
 {{< figure src="/images/1945_02_02_ulithi_fast_carrier_task_force.jpg" 
-           caption="The view from the opposite side of ASTORIA shows aircraft carriers of the Fast Carrier Task Force on 2 February 1945. The fleet carriers shown are LEXINGTON CV-16 (left) and HORNET CV-12." 
+           caption="The view from the opposite side of *Astoria* shows aircraft carriers of the Fast Carrier Task Force on 2 February 1945. The fleet carriers shown are LEXINGTON CV-16 (left) and HORNET CV-12." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
 {{< figure src="/images/1945_02_02_ulithi_forward_view.jpg" 
-           caption="A view forward of ASTORIA in her berth at Ulithi on 2 February 1945.  Auxiliary ships and tenders lie alongside cruisers while an LCVP crosses the bow of ASTORIA." 
+           caption="A view forward of *Astoria* in her berth at Ulithi on 2 February 1945.  Auxiliary ships and tenders lie alongside cruisers while an LCVP crosses the bow of *Astoria*." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
 {{< figure src="/images/1945_02_03_exec_inspection.jpg" 
-           caption="Captain's Inspection aboard USS ASTORIA, 3 February 1945.  Executive Officer Armentrout performs a crew inspection on the ship's starboard aft main deck." 
+           caption="Captain's Inspection aboard USS *Astoria*, 3 February 1945.  Executive Officer Armentrout performs a crew inspection on the ship's starboard aft main deck." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
@@ -151,7 +151,7 @@ While the crew rotated through recreational liberty, the ship was a hive of acti
 >}}
 
 {{< figure src="/images/1945_02_03_department_heads.jpg" 
-           caption="The ASTORIA heads of departments following ceremonies on 3 February 1945. Officers wipe their brows from the Ulithi heat." 
+           caption="The *Astoria* heads of departments following ceremonies on 3 February 1945. Officers wipe their brows from the Ulithi heat." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
@@ -166,7 +166,7 @@ While the crew rotated through recreational liberty, the ship was a hive of acti
 >}}
 
 {{< figure src="/images/1945_02_04_hernia_surgery.jpg" 
-           caption="An operation of a different kind is attended to while at anchorage in Ulithi. An ASTORIA sailor has a double hernia removed aboard ship on 4 February 1945." 
+           caption="An operation of a different kind is attended to while at anchorage in Ulithi. An *Astoria* sailor has a double hernia removed aboard ship on 4 February 1945." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
