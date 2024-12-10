@@ -2,4 +2,12 @@
 
 {{ .Content }}
 
+<div>
+	<ul>
+	{{ range .Site.Sections.Reverse }}
+	<li><a href="{{ .RelPermalink }}">{{ partial "article.html" .}}</a></li>
+	{{ end }}
+	</ul>
+</div>
+
 {{ partial "footer.html" . }}

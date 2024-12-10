@@ -1,7 +1,9 @@
 +++
 date = '2024-11-10T10:46:19-06:00'
 draft = false
-title = 'History'
+title = 'World War II History'
+summary = "A detailed historical account of the Mighty Ninety through 1945."
+summary_image = '/images/beginnings_merge_700x_ot64.jpg'
 +++
 
 # World War II History 1941-1945

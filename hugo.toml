@@ -3,6 +3,13 @@ languageCode = 'en-us'
 title = 'Mighty90'
 theme = 'mighty90'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+        
 [menus]
   [[menus.main]]
     name = 'History'

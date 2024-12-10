@@ -115,3 +115,7 @@ body img {
   height: auto;
   object-fit: contain;
 }
+
+.warning-text {
+  color: red;
+}

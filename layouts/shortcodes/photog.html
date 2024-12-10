@@ -1,0 +1,7 @@
+{{/* shortcode for generating photographer image */}}
+{{/* parameters: img, name, link */}}
+
+{{/* get file reference */}}
+{{ $image := .Page.Resources.GetMatch (printf "*%s*" (.Get "img")) }}
+
+<a href='{{ (.Get "link").RelPermalink }}' title='{{ (.Get "name") }}' style='background-image: url("{{ $image }}")'></a>
