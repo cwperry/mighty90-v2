@@ -36,9 +36,9 @@ A small group of U.S. Navy photographers are responsible for the vast majority o
 
 {{< photog-table >}}
   {{< photog img="1945_08_phom3c_herman_schnipper_170x.jpg" name="Herman C. Schnipper" link="herman_schnipper" >}}
-  {{< photog img="1945_06_15_circa_guttosch_rudy_hs_170x.jpg" name="Rudolph J. Guttosch" link="rudolph_guttosch" >}}
+  {{< photog img="1945_06_15_circa_guttosch_rudy_hs_170x.jpg" name="Rudolph J. Guttosch" link="combat_photography_unit_6" >}}
   {{< photog img="lt_lisle_john_170x.jpg" name="LT John Lisle" >}}
-  {{< photog img="1945_07_18_phom2c_t_g_higgins_fleet_photog_3x4_170x_2.jpg" name="Thomas G. Higgins"link="thomas_higgins" >}}
+  {{< photog img="1945_07_18_phom2c_t_g_higgins_fleet_photog_3x4_170x_2.jpg" name="Thomas G. Higgins" link="combat_photography_unit_6" >}}
   {{< photog img="jerome_b_zerbe.jpg" name="Jerome B. Zerbe" >}}
 {{< /photog-table >}}
 
@@ -46,11 +46,11 @@ A small group of U.S. Navy photographers are responsible for the vast majority o
 
 [Herman Schnipper]({{< ref "herman_schnipper" >}} "Herman Schnipper") served as USS *Astoria* CL-90 Ship's Photographer from her commissioning through April 1946. His photography provides a remarkable view of the Mighty Ninety throughout her war cruise and first two years. His partnership has been instrumental in the development of this website.
 
-[Rudy Guttosch]({{< ref "rudolph_guttosch" >}}) served aboard USS *Astoria* CL-90 in the final months of World War II. Guttosch was part of Combat Photographic Unit 6 (CPU-6), dispersed across the Fast Carrier Task Force to film and photograph the United States Navy in action. In the absence of combat, the team served public relations functions. Guttosch photographed *Astoria* Sailors and Marines for use in hometown newspapers to help boost stateside morale and finance the 7th war bond drive.
+[Rudy Guttosch]({{< ref "combat_photography_unit_6" >}}) served aboard USS *Astoria* CL-90 in the final months of World War II. Guttosch was part of Combat Photographic Unit 6 (CPU-6), dispersed across the Fast Carrier Task Force to film and photograph the United States Navy in action. In the absence of combat, the team served public relations functions. Guttosch photographed *Astoria* Sailors and Marines for use in hometown newspapers to help boost stateside morale and finance the 7th war bond drive.
 
 John Lisle served as 2nd Division Gunnery Officer aboard USS *Astoria* CL-90. In early 1945, he was also assigned as Photography Officer aboard ship. His images provide a candid insight of Naval Officers in the final months of the Pacific War, at sea in combat conditions and ashore for recreation.
 
-[Thomas Higgins]({{< ref "thomas_higgins" >}}) was assigned to USS *Astoria* along with Rudy Guttosch as the film photographer of CPU #6. Although he shot reels of film aboard ship, this footage has yet to be located.
+[Thomas Higgins]({{< ref "combat_photography_unit_6" >}}) was assigned to USS *Astoria* along with Rudy Guttosch as the film photographer of CPU #6. Although he shot reels of film aboard ship, this footage has yet to be located.
 
 Walter J. Duggan (not pictured) was part of a seven-man Special Photography Unit deployed across Task Group 58.3 during Okinawa operations. His color film footage, reproduced from the National Archives and private collections, depicts events from the height of *Astoria*'s combat experience.
 
