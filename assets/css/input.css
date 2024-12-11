@@ -18,6 +18,21 @@
   a {
     @apply underline; 
   }
+  ol {
+    @apply list-decimal;
+    @apply m-8;
+  }
+  ul {
+    @apply list-disc;
+    @apply m-8;
+  }
+}
+
+.caption {  
+  background-color: #2A2A2A;
+  margin-bottom: 2em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 figure {  
@@ -45,6 +60,11 @@ figcaption {
   display: inline-block;
 }
 
+.img-attr {
+  @apply text-sm;
+  font-style: italic;
+}
+
 .warning-text {
   color: red;
 }
@@ -58,3 +78,4 @@ figcaption {
   width: 95%;
   height: auto;
 }
+

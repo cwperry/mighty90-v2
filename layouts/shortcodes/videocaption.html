@@ -1,0 +1,14 @@
+{{- $caption := or ($.Get "caption") $caption | plainify }}
+
+<div class="caption">
+{{- if or (or $caption) (.Get "attr") -}}
+  <figcaption>
+    {{- with $caption | markdownify -}}
+      <div class="img-caption">{{ . }}</div>
+    {{- end -}}  
+    {{- with .Get "attr" | markdownify -}}
+      <div class="img-attr">{{ . }}</div>
+    {{- end -}}  
+  </figcaption>
+{{- end }} 
+</div>

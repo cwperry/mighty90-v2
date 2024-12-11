@@ -21,7 +21,7 @@ theme = 'mighty90'
     weight = 30
   [[menus.main]]
     name = 'Film'
-    pageRef = '/film'
+    pageRef = '/film_footage'
     weight = 40
   [[menus.main]]
     name = 'Shipmates'
