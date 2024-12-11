@@ -2,6 +2,33 @@
 {{/* parameters: img, name, link */}}
 
 {{/* get file reference */}}
-{{ $image := .Page.Resources.GetMatch (printf "*%s*" (.Get "img")) }}
+<!-- {{ $image := .Page.Resources.GetMatch (printf "*%s*" (.Get "img")) }} -->
 
-<a href='{{ (.Get "link").RelPermalink }}' title='{{ (.Get "name") }}' style='background-image: url("{{ $image }}")'></a>
+{{- $u := urls.Parse (.Get "img") -}}
+  {{- $image := $u.String -}}
+  {{- if not $u.IsAbs -}}
+    {{- with or (.Page.Resources.Get $u.Path) (resources.Get $u.Path) -}}
+    {{- $image = .RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+
+<photog>
+  {{- if .Get "link" -}}
+    <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
+  {{- end -}}
+  <img class="photog" src="{{ $image }}" />
+  <figcaption>
+    {{- with .Get "name" | markdownify -}}
+      <div class="img-caption">{{ . }}</div>
+    {{- end -}}
+  </figcaption>
+  {{- if .Get "link" }}</a>{{ end -}}
+</photog>
+<!-- <a title='{{ (.Get "name") }}' >
+  <img class="photog" src="{{ $image }}" />
+  <figcaption>
+    {{- with .Get "name" | markdownify -}}
+      <div class="img-caption">{{ . }}</div>
+    {{- end -}}
+  </figcaption>
+</a> -->

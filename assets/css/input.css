@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-4xl;
+    @apply py-4;
+  }
+  h2 {
+    @apply text-3xl;
+    @apply py-4;
+  }
+  h3 {
+    @apply text-2xl;
+    @apply py-4;
+  }
+  a {
+    @apply underline; 
+  }
+}
+
+figure {  
+  background-color: #2A2A2A;
+  margin-bottom: 2em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figure img {
+  width: 98%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1%;
+}
+
+figcaption {
+  padding-left: 1%;
+  padding-right: 1%;
+  margin-right: 1%;
+  width: inherit;
+  display: inline-block;
+}
+
+.warning-text {
+  color: red;
+}
+
+.photog {
+  width: 170px;
+  height: auto;
+}
+
+.photog-table {
+  width: 95%;
+  height: auto;
+}

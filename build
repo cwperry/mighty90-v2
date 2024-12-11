@@ -1,0 +1,4 @@
+#! /bin/bash
+/usr/local/bin/npx tailwindcss -i ./assets/css/input.css -o ./assets/css/index.css --jit --minify
+
+/usr/local/bin/hugo build --gc --minify 

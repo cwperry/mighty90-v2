@@ -8,6 +8,10 @@
 	<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 
 	<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
+	
+	{{ $css := resources.Get "css/index.css" | fingerprint "md5"}}
+
+  <link rel="stylesheet" type="text/css" href="{{ $css.Permalink }}" />
 
 	<img src="/images/1945_03_20_ASTORIA_CL-90_under_fire_2_NARA_80-G-328671_4x3_CU_Banner_1200x-240x_wLogo.jpg"> 
 
