@@ -1,7 +1,9 @@
 +++
 date = '2024-12-11T10:47:56-06:00'
-draft = true
+draft = false
 title = 'Color Film Footage'
+summary = "40 minutes of silent color footage shot from the decks of USS *Astoria* during Okinawa operations."
+summary_image = '/film_footage/vc_merge_700x.jpg'
 +++
 
 Between 18 March and 14 April 1945, three reels of color film were shot aboard USS *Astoria* CL-90 by a U.S. Navy fleet photographer named Walter J. Duggan. This film depicts the height of combat for *Astoria* during Okinawa operations.
