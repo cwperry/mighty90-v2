@@ -3,7 +3,7 @@ date = '2024-11-09T20:37:39-06:00'
 draft = false
 title = 'Chapter 1 Beginnings'
 summary = "Construction of USS *Astoria* CL-90 through Launching,&nbsp;September 1941-March 1943."
-summary_image = '/chapter-1-beginnings/beginnings_merge_700x_ot64.jpg'
+summary_image = '/history/chapter-1-beginnings/beginnings_merge_700x_ot64.jpg'
 +++
 
 {{< figure src="/1941_10_05_cl-90_cramp_sbc_1_nara_19-lcm_4x3_700x.jpg" 
