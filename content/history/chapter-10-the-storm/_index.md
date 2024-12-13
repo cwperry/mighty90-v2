@@ -3,19 +3,19 @@ date = '2024-11-28T10:39:59-06:00'
 draft = false
 title = 'Chapter 10 the Storm'
 summary = "The Fast Carrier Task Force steams through the heart of a Pacific typhoon, December 1944."
-summary_image = '/images/the-storm.jpg'
+summary_image = '/history/chapter-10-the-storm/the-storm.jpg'
 +++
 
 *Author's note: Most photographs published in books and other sources said to show ships caught in the Typhoon of December 1944 were not taken during this storm. Most were taken in the South China Sea in January 1945.*
 
 *This section on the Typhoon of December 1944 (re-named Typhoon Cobra in the 1950s) will only include photographs that can be confirmed associated with the December 1944 storm. The fact that so few images exist illustrates the intensity of the storm.*
 
-{{< figure src="/images/1944_12_17_oiler_waves.jpg" 
+{{< figure src="/1944_12_17_oiler_waves.jpg" 
            caption="Waves break over the bow of an oiler from Task Group 30.8 as refueling attempts begin in the late morning of 17 December 1944. The weather progressively worsened throughout the day." 
            attr="U.S.Navy photo in NARA collection 80-G"
 >}}
 
-{{< figure src="/images/1944_12_17_storm_track_refueling.jpg" 
+{{< figure src="/1944_12_17_storm_track_refueling.jpg" 
            caption="This track chart depicts the collision course of USS *Astoria* and Third Fleet attempting to refuel while the typhoon closes in on 17 December 1944." 
            attr="manipulated from Google Earth imagery"
 >}}
@@ -36,7 +36,7 @@ Fueling was difficult from the very start as wind and seas began to pick up. USS
 #### 1200
 Conditions worsened throughout the morning as ships attempted to refuel. In one incident, destroyer *Maddox* had a fuel line break, almost causing a collision with her oiler *Manatee*. Escort carrier *Kwajalein*, attempting to transfer replacement planes and pilots to the fast carriers, canceled all air operations and personnel transfers. Her crew focused instead on lashing planes to the deck with steel cables and deflating their tires. As the day progressed, the practice of securing aircraft was adopted by carriers throughout the fleet.
 
-{{< figure src="/images/1944_12_17_storm_track_second_refueling.jpg" 
+{{< figure src="/1944_12_17_storm_track_second_refueling.jpg" 
            caption="At 1251 Admiral Halsey ordered all ships to cancel fueling attempts for the day and steam northwest; a second fueling rendezvous would be attempted the next morning at 0600. Halsey made this decision based on the conclusion that the storm was moving away to the north. This new location would keep the fleet close to Luzon yet out of enemy fighter range, allowing the fast carriers to get back into action on schedule. In reality, the storm was 300 miles closer than realized and bearing down on the fleet." 
            attr="manipulated from Google Earth imagery"
 >}}
@@ -46,14 +46,14 @@ The sea had become too rough for aircraft recovery. The last two planes returnin
 
 Skippers across the fleet shared opinions and predictions. It became consensus that the new refueling point lay in the path of the storm, a notion that was closer to the mark but still not accurate.
 
-{{< figure src="/images/1944_12_17_storm_track_third_refueling.jpg" 
+{{< figure src="/1944_12_17_storm_track_third_refueling.jpg" 
            caption="At 1533 Halsey waved off the second rendezvous point and designated a third one, much farther to the south. He directed the fleet to a new heading of due west, 270 degrees. The fleet began to outpace the weather and conditions improved somewhat, but when they turned south at 0000 on 18 December the storm began to gain on them again." 
            attr="manipulated from Google Earth imagery"
 >}}
 
 ### 18 December 1944
 
-{{< figure src="/images/1944_12_18_storm_track_forth_refueling.jpg" 
+{{< figure src="/1944_12_18_storm_track_forth_refueling.jpg" 
            caption="By 0200 Halsey realized that his ships would not be able to reach the third rendezvous, so late in the evening he changed the location of the fueling rendezvous yet again. This fourth location was believed to provide more favorable weather while still maintaining a safe distance from Japanese airfields. Unfortunately, this decision pulled the fleet directly back into the path of the advancing storm." 
            attr="manipulated from Google Earth imagery"
 >}}
@@ -73,17 +73,17 @@ For ships nearest to the storm, conditions were so bad that two escort carriers 
 
 The storm began to consume the fleet. The light carrier USS *Independence* reported a man overboard; another followed within minutes. Aircraft broke loose from their cables on the hangar deck of USS *Monterey* and exploded into flames. The crew of the *Monterey* spent the next hour working to bring fires under control as the ship slowed and lost steerage.
 
-{{< figure src="/images/1944_12_18_langley_cvl-27.jpg" 
+{{< figure src="/1944_12_18_langley_cvl-27.jpg" 
            caption="In one of the very few photographs taken during the December typhoon, USS *Langley* CVL-27 rolls through 30 degrees to starboard on the morning of 18 December 1944." 
            attr="U.S. Naval History and Heritage Center photo"
 >}}
 
-{{< figure src="/images/1944_12_18_langley_cvl-27_larger.jpg" 
+{{< figure src="/1944_12_18_langley_cvl-27_larger.jpg" 
            caption="In an uncropped version of the same image, battleship *Washington* BB-56 maintains an even keel as *Langley* rolls, showing the relative stability of ships caught in the storm." 
            attr="U.S. Naval History and Heritage Center photo"
 >}}
 
-{{< figure src="/images/1944_12_18_heart_of_the_storm.jpg" 
+{{< figure src="/1944_12_18_heart_of_the_storm.jpg" 
            caption="By 1000 the fleet was in the heart of the storm. Barometer readings fell rapidly and the wind began backing counterclockwise, tell-tale signs of a typhoon. Ships maneuvered independently for the next eight hours as each fought its own battle." 
            attr="manipulated from Google Earth imagery"
 >}}
@@ -113,7 +113,7 @@ Sometime after midnight, destroyer escort USS *Tabberer* DE-418 conveyed a messa
 
 *Tabberer* went on to report her own damage. Her foremast had been torn down by gale winds during the storm. Radar and radio gone, she was operating on emergency equipment and barely managed to convey her message to a nearby ship.
 
-{{< figure src="/images/1944_12_18_tabberer_de-418.jpg" 
+{{< figure src="/1944_12_18_tabberer_de-418.jpg" 
            caption="USS *Tabberer* DE-418 as she looked following the Typhoon of December 1944." 
            attr="U.S. Navy photo reproduced from Halsey's Typhoon, Drury and Clavin"
 >}}
@@ -122,45 +122,45 @@ As reports came in through the night, several destroyers were unaccounted for. *
 
 Seas remained heavy, but ships could finally fuel. Although three DDs were missing and three CVLs were detached back to Ulithi for repairs, Halsey and McCain were mindful of their obligation to return to Luzon for precious air cover. Lives hung in the balance both in the surrounding waters and back at Mindoro, but getting back into the fight was top priority.
 
-{{< figure src="/images/1944_12_18_astoria_track.jpg" 
+{{< figure src="/1944_12_18_astoria_track.jpg" 
            caption="The track chart of *Astoria* as the combined fleet fought its way clear of the storm. In their wake, the fleet learned of the lost destroyer USS *Hull*." 
            attr="manipulated from Google Earth imagery"
 >}}
 
 Although USS *Astoria* had weathered the storm, her Kingfisher floatplanes had not. As the ship refueled and readied to return to the Philippines, crew members assessed damage on the fantail.
 
-{{< figure src="/images/1944_12_18_starboard_kingfisher.jpg" 
+{{< figure src="/1944_12_18_starboard_kingfisher.jpg" 
            caption="Under clearing skies, *Astoria* sailors begin work on the starboard OS2N-1 Kingfisher. The plane's port wing and centerline pontoon are badly damaged. Note the M-1926 life belt on the man at left." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
-{{< figure src="/images/1944_12_18_starboard_kingfisher_underside.jpg" 
+{{< figure src="/1944_12_18_starboard_kingfisher_underside.jpg" 
            caption="The underside of *Astoria's* starboard OS2N-1 Kingfisher. Like all ships equipped with Kingfishers, *Astoria's* planes could not be stored in her hangar due to non-folding wings. They had to be lashed to their catapults, resulting in losses throughout the fleet." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
-{{< figure src="/images/1944_12_19_starboard_kingfisher_port_wing_damage.jpg" 
+{{< figure src="/1944_12_19_starboard_kingfisher_port_wing_damage.jpg" 
            caption="A third photo from 19 December 1944 clearly shows the extent of damage to the plane's port wing. Note the sailor at right wearing foul weather gear." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
-{{< figure src="/images/1944_12_19_starboard_kingfisher_final_view.jpg" 
+{{< figure src="/1944_12_19_starboard_kingfisher_final_view.jpg" 
            caption="A final view of the damaged starboard-side plane. After it was untied and righted, the ruined Kingfisher was discarded overboard." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
-{{< figure src="/images/1944_12_19_monterey_cvl-26_damage_1.jpg" 
+{{< figure src="/1944_12_19_monterey_cvl-26_damage_1.jpg" 
            caption="Above and below: Several light carriers were badly damaged. Shown is the burned-out hangar deck of USS *Monterey* CVL-26, where future American President LT Gerald Ford led efforts to fight fires at the height of the storm." 
            attr="U.S. Navy photos in NARA Record Group 80-G"
 >}}
 
-{{< figure src="/images/1944_12_19_monterey_cvl-26_damage_2.jpg" >}}
+{{< figure src="/1944_12_19_monterey_cvl-26_damage_2.jpg" >}}
 
 ### 20 December 1944
 
 With fueling operations completed, the battered and reassembled Fast Carrier Task Force began its return to the Philippines. Halsey had promised MacArthur that his ships would be back on station to resume air strikes the next day. Halsey hoped to now employ the storm to his advantage, advancing behind it to mask the approach of his ships.
 
-{{< figure src="/images/1944_12_19_astoria_track.jpg" 
+{{< figure src="/1944_12_19_astoria_track.jpg" 
            caption="The track chart of *Astoria* as the fleet steamed north on 19-20 December 1944. Their path brought them into position to detach the Logistic Support Group in the search for survivors while the Fast Carrier Task Force used the storm to mask a return approach to Luzon." 
            attr="manipulated from Google Earth imagery"
 >}}
@@ -178,29 +178,29 @@ Overnight Halsey radioed to MacArthur: "Regret unable to strike on 21st due to i
            attr="manipulated from Google Earth imagery"
 >}}
 
-{{< figure src="/images/1944_12_21_combat_air_patrol.jpg" 
+{{< figure src="/1944_12_21_combat_air_patrol.jpg" 
            caption="Combat air patrol over Task Group 38.2 on 21 December 1944. The task force was finally far enough from the stalled storm to launch planes." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
 ### 22 December 1944
 
-{{< figure src="/images/1944_12_22_independence_cap.jpg" 
+{{< figure src="/1944_12_22_independence_cap.jpg" 
            caption="An F6F from USS *Independence* performs CAP over Task Group 38.2 in the morning hours of 22 December 1944. Note the radar pod on the starboard wing used for night operations. This photograph was taken from *Hancock* CV-19. *Miami* CL-89 is at left." 
            attr="U.S. Navy photo in NARA Record Group 80-G-259055"
 >}}
 
-{{< figure src="/images/1944_12_22_astoria_refueling.jpg" 
+{{< figure src="/1944_12_22_astoria_refueling.jpg" 
            caption="Sailors watch from the fantail of oiler USS *Mascoma* AO-83 as Astoria fuels to her port side on 22 December. In the distance, USS *Hancock* rides heavy seas as destroyers come alongside for fueling." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
-{{< figure src="/images/1944_12_22_fleet_track_to_ulithi.jpg" 
+{{< figure src="/1944_12_22_fleet_track_to_ulithi.jpg" 
            caption="Following a fueling rendezvous, the search for survivors was called off at sundown on 22 December. 93 men had been pulled from the water over the course of four days. As the Fast Carrier Task Force steamed for the safe confines of Ulithi, they learned of the confirmed loss of the third missing destroyer, USS *Monaghan*. Many other ships had suffered significant damage, and hundreds of sailors were known lost at sea." 
            attr="manipulated from Google Earth imagery"
 >}}
 
-{{< figure src="/images/1944_12_23_astoria_bow_plunge.jpg" 
+{{< figure src="/1944_12_23_astoria_bow_plunge.jpg" 
            caption="Heavy seas continued in the wake of the typhoon days later. In this image from 23 December 1944, her last full day at sea before arriving at anchorage, the bow of USS *Astoria* plunges into the water" 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
@@ -223,7 +223,7 @@ MIGHTY NINETY: USS ASTORIA CL-90 cruise book.  1946.
 
 Morison, Samuel Eliot.  History of United States Naval Operations in WWII Vol. XIII: The Liberation of the Philippines.   Boston: Little, Brown and Company Inc., 1959.
 
-Peddie, Jim.  Private collection of ASTORIA CL-90 documents.
+Peddie, Jim.  Private collection of *Astoria* CL-90 documents.
 
 Schnipper, Herman.  Excerpt from “Typhoon Cobra: December 18, 1944.”  The Jerseyman, December 2003, p.10
 
