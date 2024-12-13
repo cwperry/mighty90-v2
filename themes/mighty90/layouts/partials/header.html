@@ -13,7 +13,10 @@
 
   <link rel="stylesheet" type="text/css" href="{{ $css.Permalink }}" />
 
-	<img src="/images/1945_03_20_ASTORIA_CL-90_under_fire_2_NARA_80-G-328671_4x3_CU_Banner_1200x-240x_wLogo.jpg"> 
+	<a href="/">
+		<img src="/images/1945_03_20_ASTORIA_CL-90_under_fire_2_NARA_80-G-328671_4x3_CU_Banner_1200x-240x_wLogo.jpg"> 
+	</a>
+	
 
 	{{ with .OutputFormats.Get "rss" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
