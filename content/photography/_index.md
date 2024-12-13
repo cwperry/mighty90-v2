@@ -4,7 +4,7 @@ draft = false
 title = 'About the Photography'
 layout = 'single'
 summary = "Sources of images for this site and the restoration process."
-summary_image = '/images/photography_merge.jpg'
+summary_image = '/photography/photography_merge.jpg'
 +++
 
 {{< figure src="/1945_07_21_circa_cl-90_pr_photos_guttosch_8_nara_80-g-336385.jpg" 
