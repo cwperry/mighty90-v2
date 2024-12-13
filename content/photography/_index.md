@@ -34,13 +34,13 @@ Many have never been publicly seen or reproduced.
 
 A small group of U.S. Navy photographers are responsible for the vast majority of the still and moving images taken from the decks of USS *Astoria*:
 
-{{< photog-table >}}
-  {{< photog img="1945_08_phom3c_herman_schnipper_170x.jpg" name="Herman C. Schnipper" link="herman_schnipper" >}}
-  {{< photog img="1945_06_15_circa_guttosch_rudy_hs_170x.jpg" name="Rudolph J. Guttosch" link="combat_photography_unit_6" >}}
-  {{< photog img="lt_lisle_john_170x.jpg" name="LT John Lisle" >}}
-  {{< photog img="1945_07_18_phom2c_t_g_higgins_fleet_photog_3x4_170x_2.jpg" name="Thomas G. Higgins" link="combat_photography_unit_6" >}}
-  {{< photog img="jerome_b_zerbe.jpg" name="Jerome B. Zerbe" >}}
-{{< /photog-table >}}
+{{< crew-table >}}
+  {{< crewman img="1945_08_phom3c_herman_schnipper_170x.jpg" name="Herman C. Schnipper" link="herman_schnipper" >}}
+  {{< crewman img="1945_06_15_circa_guttosch_rudy_hs_170x.jpg" name="Rudolph J. Guttosch" link="combat_photography_unit_6" >}}
+  {{< crewman img="lt_lisle_john_170x.jpg" name="LT John Lisle" >}}
+  {{< crewman img="1945_07_18_phom2c_t_g_higgins_fleet_photog_3x4_170x_2.jpg" name="Thomas G. Higgins" link="combat_photography_unit_6" >}}
+  {{< crewman img="jerome_b_zerbe.jpg" name="Jerome B. Zerbe" >}}
+{{< /crew-table >}}
 
 <!-- [BACK TO SHIP HISTORY]({{< relref "/history" >}} "History") -->
 
@@ -62,11 +62,11 @@ Several significant LIFE Magazine photographic essays were shot from 1941-1945 t
 
 Under the Getty Images terms of usage, remastered versions of these images appear on this website for individual non-commercial use. The LIFE photographers:
 
-{{< photog-table >}}
-  {{< photog img="bob_landry.jpg" name="Bob Landry" >}}
-  {{< photog img="w_eugene_smith.jpg" name="W. Eugene Smith" >}}
-  {{< photog img="carl_mydans.jpg" name="Carl Mydans" >}}
-{{< /photog-table >}}
+{{< crew-table >}}
+  {{< crewman img="bob_landry.jpg" name="Bob Landry" >}}
+  {{< crewman img="w_eugene_smith.jpg" name="W. Eugene Smith" >}}
+  {{< crewman img="carl_mydans.jpg" name="Carl Mydans" >}}
+{{< /crew-table >}}
 
 ## Private Collections
 
