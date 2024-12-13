@@ -3,10 +3,10 @@ date = '2024-11-28T17:19:46-06:00'
 draft = false
 title = 'Chapter 12 Operation MIKE I'
 summary = "The Fast Carrier Task Force steams through the heart of a Pacific typhoon, December 1944."
-summary_image = '/images/operation-mike-i.jpg'
+summary_image = '/history/chapter-12-operation-mike-1/operation-mike-i.jpg'
 +++
 
-{{< figure src="/images/1944_12_30_task_force_38-2_underway_from_ulithi.jpg" 
+{{< figure src="/1944_12_30_task_force_38-2_underway_from_ulithi.jpg" 
            caption="Elements of Task Group 38.2 underway from Ulithi on 30 December 1944. Aircraft carriers are (front to back) *Independence* CVL-22, *Hornet* CV-12 and *Lexington* CV-16. Cruisers at right are *San Juan* CL-54 followed by CruDiv 17 ships." 
            attr="U.S. Navy photo in NARA record group 80-G-300093"
 >}}
@@ -37,12 +37,12 @@ Commander Task Group:  Rear Admiral Gerald C. Bogan
 | Destroyers:     | ~24 DDs             |
 *With the arrival of *Wilkes-Barre* CL-103, USS *Vincennes* CL-64 shifted to Task Group 38.3.
 
-{{< figure src="/images/1944_12_30_independence_cvl-22.jpg" 
+{{< figure src="/1944_12_30_independence_cvl-22.jpg" 
            caption="*Independence* CVL-22, shown here on 30 December 1944, conducted night operations and shifted into the protective formation of Task Group 38.2 during the daytime." 
            attr="U.S. Navy photo in NARA record group 80-G-300093"
 >}}
 
-{{< figure src="/images/1945_01_01_astoria_track_chart.jpg" 
+{{< figure src="/1945_01_01_astoria_track_chart.jpg" 
            caption="Track chart of USS *Astoria* as Task Force 38 performed a run-in to Formosa (gray line).  Air strikes were launched against northern Japanese airfields within reach of the American invasion beaches.  Simultaneously, U.S. invasion forces of 7th Fleet (yellow line) sortied from Leyte Gulf past liberated Mindoro toward the Luzon landing area at Lingayen Gulf." 
            attr="manipulated from Google Earth imagery"
 >}}
@@ -56,22 +56,22 @@ Meanwhile, the invasion force making its long run up the western side of the Phi
 
 Although Navy planes from the escort carriers and Army Air Force planes from Mindoro worked together to keep this threat to a minimum, the fast carriers would be sorely needed at Luzon.
 
-{{< figure src="/images/1945_01_04_essex_pilots_prepare.jpg" 
+{{< figure src="/1945_01_04_essex_pilots_prepare.jpg" 
            caption="A flight of USS *Essex* Navy pilots prepares for their next mission from their ready room, 4 January 1945. The aviators are (left to right) Hartsock, Parker, Finn and Libbey." 
            attr="U.S. Navy photo in NARA record group 80-G"
 >}}
 
-{{< figure src="/images/1945_01_04_essex_sailors_load_hvar.jpg" 
+{{< figure src="/1945_01_04_essex_sailors_load_hvar.jpg" 
            caption="USS *Essex* CV-9 sailors load an HVAR \"Holy Moses\" rocket aboard an F6F Hellcat in preparation for air strikes on 4 January 1945." 
            attr="U.S. Navy photo in NARA record group 80-G"
 >}}
 
-{{< figure src="/images/1945_01_04_quad_40mm_resting.jpg" 
+{{< figure src="/1945_01_04_quad_40mm_resting.jpg" 
            caption="A quad-40mm gun crew aboard USS *Astoria* takes in some sun and reading during a break in the weather on 4 January 1945.  With no Japanese planes aloft near the fast carriers, gun crews had little to do except man their stations and find ways to entertain themselves." 
            attr="photo taken by and courtesy of Herman Schnipper."
 >}}
 
-{{< figure src="/images/1945_01_04_schnipper_self_portrait.jpg" 
+{{< figure src="/1945_01_04_schnipper_self_portrait.jpg" 
            caption="An iconic self-portrait of Photographer's Mate 3rd Class Herman Schnipper on 4 January 1945. Schnipper qualified and received his rate aboard USS *Astoria* CL-90 on New Year's Day." 
            attr="photo taken by and courtesy of Herman Schnipper."
 >}}
@@ -80,22 +80,22 @@ Although Navy planes from the escort carriers and Army Air Force planes from Min
 
 The task force withdrew out of range from land-based aircraft and fueled from the Logistic Support Group.  USS *Enterprise* joined up underway, fresh from Pearl Harbor where modifications had been completed enabling her to conduct night operations.  *Enterprise*, now designated CV(N)-6, and *Independence* CVL-22 were intended to extend the \"Big Blue Blanket\" over Luzon airfields in a nighttime capacity.  Forming the new Task Group 38.5, the night carriers joined the protective screen of *Astoria* and Task Group 38.2 during the day.
 
-{{< figure src="/images/1945_01_05_wilkes_barre_cl-103.jpg" 
+{{< figure src="/1945_01_05_wilkes_barre_cl-103.jpg" 
            caption="USS *Wilkes-Barre* CL-103 photographed during underway replenishment off Luzon circa 5 January 1945. *New Jersey* BB-62 and a destroyer fuel from an oiler in the background. A TBM Avenger with USS *Essex* markings is spotted forward on an unidentified escort carrier (CVE) that was the source for this photo. Note that the crew is aboard the TBM Avenger." 
            attr="U.S. Navy photo in NARA record group 80-G-326046"
 >}}
 
-{{< figure src="/images/1945_01_05_pasadena_cl-65.jpg" 
+{{< figure src="/1945_01_05_pasadena_cl-65.jpg" 
            caption="USS *Pasadena* CL-65 en route to the Philippines on 5 January 1945. Photo taken from *New Jersey* BB-62 by LCDR Charles F. Jacobs, USNR." 
            attr="U.S. Navy photo in NARA record group 80-G-470296"
 >}}
 
-{{< figure src="/images/1945_01_05_task_group_38-2_underway_to_philippines.jpg" 
+{{< figure src="/1945_01_05_task_group_38-2_underway_to_philippines.jpg" 
            caption="Ships of Task Group 38.2 en route to the Philippines on 5 January 1945. At center is *Sumner*-class destroyer *English* DD-696. The carrier at left is *Hancock* CV-19, and at right is newly-joined USS *Enterprise* CV(N)-6." 
            attr="U.S. Navy photo in NARA record group 80-G-470281"
 >}}
 
-{{< figure src="/images/1945_01_05_astoria_track_chart.jpg" 
+{{< figure src="/1945_01_05_astoria_track_chart.jpg" 
            caption="Track chart of USS *Astoria* as Task Force 38 takes position off Luzon (gray line).  Air strikes were launched against northern Luzon airfields, while airfields further south were covered by land-based Army Air Force planes and the escort carriers at the vanguard of the 7th Fleet invasion force (yellow line)." 
            attr="manipulated from Google Earth imagery"
 >}}
@@ -104,7 +104,7 @@ The task force withdrew out of range from land-based aircraft and fueled from th
 
 Heavy weather again limited the strikes conducted by the fast carriers as well as enemy planes.  32 more Japanese aircraft were estimated shot down or destroyed on the ground.  However, breaks in the weather and subsequent holes in blanketing tactics permitted some Japanese planes to get airborne and attack the invasion force.  Although Combat Air Patrols (CAP) prevented any planes from getting through to the fast carriers, several ships in the invasion force approaching Lingayen Gulf were hit.
 
-{{< figure src="/images/1945_01_06_columbia_cl-56_kamikaze_attack.jpg" 
+{{< figure src="/1945_01_06_columbia_cl-56_kamikaze_attack.jpg" 
            caption="USS *Columbia* CL-56, a *Cleveland*-class cruiser assigned to the Luzon Attack Group, is struck by her second suicide attack in three hours on 6 January.  Although the first crash only resulted in superficial damage, this one severely damaged the aft areas of the ship.  Her aft battery was flooded to prevent a magazine explosion, and she stayed in formation with the invasion force." 
            attr="U.S. Navy Photos reproduced from www.navsource.org"
 >}}
@@ -115,7 +115,7 @@ The weather cleared during the morning hours for the second day of fast carrier 
 From Morison's The Liberation of the Philippines:
 > The enemy seemed unwilling to challenge the carrier planes; he was saving his planes for what he considered a more worthy object.  Throughout the entire day of the 7th only four Japanese aircraft were observed to rise in order to give battle, and they were promptly shot down.  Task Force 38 claimed to have destroyed 75 others on the ground; its own losses were heavy--28 planes, 18 of these operational [losses].  With the assistance of 143 sorties from the eleven escort carriers with [7th Fleet], and of the Army Air Force, these strikes accomplished their object of protecting the fleet at Lingayen Gulf, for a time, from Kamikaze attack...  and the Japanese air forces on Luzon were almost wiped out.
 
-{{< figure src="/images/1945_01_07_luzon_attack_group.jpg" 
+{{< figure src="/1945_01_07_luzon_attack_group.jpg" 
            caption="Ships of the Luzon Attack Group steam into Lingayen Gulf, circa S minus 2 on 7 January 1945.  From front to back of the column are battleships USS PENNSYLVANIA and COLORADO followed by cruisers LOUISVILLE, PORTLAND, and *Columbia*." 
            attr="U.S. Navy photo in NARA record group 80-G"
 >}}
@@ -124,12 +124,12 @@ From Morison's The Liberation of the Philippines:
 
 The Fast Carrier Task Force left the Philippines and headed north again.  They spent the day refueling and resupplying with the Logistic Support Group, then performed a run-in toward Formosa overnight for a second round of strikes on the northern island airfields within range of the S-Day landing area.  With Japanese air forces on Luzon essentially neutralized, planes from the Formosa area were the remaining threat.
 
-{{< figure src="/images/1945_01_09_astoria_track_chart.jpg" 
+{{< figure src="/1945_01_09_astoria_track_chart.jpg" 
            caption="Track chart of USS *Astoria* as Task Force 38 moves away from Luzon toward Formosa (gray line).  On 9 January 1945, as the Luzon landings began at Lingayen Gulf, the fast carriers launched strikes against airfields on Formosa and the surrounding islands." 
            attr="manipulated from Google Earth imagery"
 >}}
 
-{{< figure src="/images/1945_01_09_lcvp_landing_craft.jpg" 
+{{< figure src="/1945_01_09_lcvp_landing_craft.jpg" 
            caption="S-Day at Lingayen Gulf, 9 January 1945.  LCVP landing craft bring American 6th Army infantry ashore." 
            attr="U.S. Navy photo in NARA record group 80-G"
 >}}
@@ -140,12 +140,12 @@ As MacArthur's 6th Army came ashore at Lingayen Gulf, bad weather once again res
 
 For the men of USS *Astoria*, the ship's involvement in the MIKE I operation had been fairly routine.  While enduring the daily nuisance of heavy rain, there was little for the Mighty Ninety to do other than screen her assigned carriers,stand watch and wait.  F Division shipmate Jim Thomson expressed the crew's desire to get into the fight, writing in his diary that "we have yet to fire an offensive gun!"  J. Fred Lind added,  "lots of mines are floating harmlessly by. The destroyers are assigned to blow them up with their five-inch battery."
 
-{{< figure src="/images/1945_01_09_gun_watch.jpg" 
+{{< figure src="/1945_01_09_gun_watch.jpg" 
            caption="Gun watch atop an *Astoria* 5-inch mount on 9 January 1945. Note the manual sight for backup use in case the gun's fire director was knocked out of commission." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
 
-{{< figure src="/images/1945_01_09_signalman_james_wiseman.jpg" 
+{{< figure src="/1945_01_09_signalman_james_wiseman.jpg" 
            caption="L-Division signalman SM3/c James T. Wiseman monitors a blinker message from an *Astoria* floatplane circa 9 January 1945." 
            attr="photo taken by and courtesy of Herman Schnipper"
 >}}
